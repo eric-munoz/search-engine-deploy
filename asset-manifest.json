@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search-engine-deploy/static/css/main.1a10c6c0.css",
+    "main.js": "/search-engine-deploy/static/js/main.c32774d1.js",
+    "index.html": "/search-engine-deploy/index.html",
+    "main.1a10c6c0.css.map": "/search-engine-deploy/static/css/main.1a10c6c0.css.map",
+    "main.c32774d1.js.map": "/search-engine-deploy/static/js/main.c32774d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a10c6c0.css",
+    "static/js/main.c32774d1.js"
+  ]
+}
